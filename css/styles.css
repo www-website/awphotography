@@ -1,0 +1,177 @@
+body{margin: 0;
+     background-color: #d4e2d4;
+     font-family: sans-serif;
+   }
+ .left{margin: 0px 10px 0px auto;}
+.about{margin: 0px 20px;
+  color: #bbbbbb;
+     font-family: sans-serif;
+     text-decoration: none;}
+
+.contactme{  color: #bbbbbb;
+     font-family: sans-serif;
+     text-decoration: none;}
+#title{  background-image: url(hbg.jpg);}
+
+
+.first{
+
+      height: 250px;
+      width: 100%;
+      }
+
+.f1{margin: 0;
+  color: #f4eeed;
+  font-size: 3rem;
+  position: relative;
+  margin-left:30%;
+  top: 80px;
+}
+.f2{position: relative;
+    margin-left: 20%;
+    top: 20px;}
+
+.f3{position: relative;
+    color: #f4eeed;
+    font-size: 1.5rem;
+    margin-left:30%;
+    bottom: 30px; }
+
+  a:hover{color: #ff414d;}
+
+
+  .all{text-align: center;
+    height: 500px;
+    width: 100%;
+    padding: 20px;
+         }
+
+  .button{position: relative;
+       color: #1a1c20;
+       font-size: 1.2rem;
+       font-family: sans-serif;
+       text-decoration: none;
+     margin: 0px 60px;
+     top: 30px;}
+
+     .contact{position: relative;
+       font-family: sans-serif;
+        color: white;
+
+       background-color: black;
+       text-align: center;
+       top: 8rem;
+       height: 50%;
+       width: 50%;
+       margin: auto;
+       border: white 5px solid;
+       border-radius: 60px;
+       padding: 30px;
+
+     }
+     input{margin: 20px 0px;}
+     label{margin: 20px 0px;}
+     .contactus{background-color: black;}
+
+
+     .butt {
+       margin: 20px;
+   background: #000000;
+   background-image: -webkit-linear-gradient(top, #000000, #000000);
+   background-image: -moz-linear-gradient(top, #000000, #000000);
+   background-image: -ms-linear-gradient(top, #000000, #000000);
+   background-image: -o-linear-gradient(top, #000000, #000000);
+   background-image: -webkit-gradient(to bottom, #000000, #000000);
+   -webkit-border-radius: 34px;
+   -moz-border-radius: 34px;
+   border-radius: 34px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 200px;
+   font-size: 23px;
+   font-weight: 100;
+   padding: 0;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #F1F1F1 3px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.butt:hover {
+   border: solid #000000 1px;
+   background: #96BBB9;
+   background-image: -webkit-linear-gradient(top, #96BBB9, #000000);
+   background-image: -moz-linear-gradient(top, #96BBB9, #000000);
+   background-image: -ms-linear-gradient(top, #96BBB9, #000000);
+   background-image: -o-linear-gradient(top, #96BBB9, #000000);
+   background-image: -webkit-gradient(to bottom, #96BBB9, #000000);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.ng{
+  margin: auto;
+}
+
+
+.second{height: 30rem;
+width: 100%;
+text-align: center;
+padding: 20px;}
+
+.bottom{
+  position: relative;
+  background-color: black;
+  color: white;
+  padding: 30px;
+
+}
+.bhcontact{position: absolute;
+  font-weight: bold;
+  color: yellow;
+  left: 38.5%;
+  bottom: 83%;
+
+}
+
+.bcontact{position: relative;
+          margin-left: 38%;
+          top: 6%;
+
+
+}
+.bcontacth{position: relative;
+          color: skyblue;
+          margin-left: 38%;
+          top: 10%}
+.bfollow{position: absolute;
+  color: yellow;
+  font-weight: bold;
+        right: 40%;
+        bottom: 84%;
+
+        }
+
+.insta{
+position: absolute;
+width: 2.5rem;
+height: 2.5rem;
+right: 42%;
+bottom: 70%;
+
+ }
+
+.fb{
+position: absolute;
+width: 2.5rem;
+height: 2.5rem;
+bottom: 70%;
+right: 38%;}
